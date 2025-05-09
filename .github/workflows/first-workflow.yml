@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Say Greeting
-      run: echo "Hello World!!! First Workflow
+      run: echo "Hello World!!! First Workflow"
     - name: Say Goodbye
-      run: echo "First Workflow Done!! Nice Learning !!!
+      run: echo "First Workflow Done!! Nice Learning !!!"
